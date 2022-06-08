@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bobur Norboyev
+- 👋 Hi, I’m Boburshokh Norboyev
 - 👀 I’m interested in Programming, Music Listening and Books
 - 🌱 I’m learning Angular, Spring WebFlux and UML 
 - 💞️ I’m looking to collaborate on...
