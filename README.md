@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bobur Norboyev (White_Tiger)
+- 👋 Hi, I’m Bobur Norboyev
 - 👀 I’m interested in Programming, Music Listening and Books
 - 🌱 I’m learning Angular, Spring WebFlux and UML 
 - 💞️ I’m looking to collaborate on...
